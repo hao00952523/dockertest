@@ -1,0 +1,7 @@
+C:\Users\101_test_pc\source\repos\dockertest\dockertest\obj\Docker\publish\dockertest.exe
+C:\Users\101_test_pc\source\repos\dockertest\dockertest\obj\Docker\publish\appsettings.Development.json
+C:\Users\101_test_pc\source\repos\dockertest\dockertest\obj\Docker\publish\appsettings.json
+C:\Users\101_test_pc\source\repos\dockertest\dockertest\obj\Docker\publish\dockertest.dll
+C:\Users\101_test_pc\source\repos\dockertest\dockertest\obj\Docker\publish\dockertest.deps.json
+C:\Users\101_test_pc\source\repos\dockertest\dockertest\obj\Docker\publish\dockertest.runtimeconfig.json
+C:\Users\101_test_pc\source\repos\dockertest\dockertest\obj\Docker\publish\dockertest.pdb
